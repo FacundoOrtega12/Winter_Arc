@@ -2,7 +2,7 @@ import urllib.request
 import re
 
 # URL of the web page to fetch
-url = 'https://www.linkedin.com/jobs/search/?currentJobId=3980097591&distance=25&geoId=103918656&keywords=Biotechnology&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true'
+url = 'https://www.linkedin.com/jobs/search/?currentJobId=3998441031&keywords=Biotechnology&origin=JOBS_HOME_KEYWORD_AUTOCOMPLETE&refresh=true'
 
 
 try:
@@ -22,8 +22,11 @@ try:
     #for word in more_clean:
         #print(word)
 
+    f = open("test.txt", "w")
+    f.write(more_clean)
+    f.close()
+
     # Print the HTML content of the web page
-    print(clean_html_content)
 
 except Exception as e:
     print("Error fetching URL:", e)
