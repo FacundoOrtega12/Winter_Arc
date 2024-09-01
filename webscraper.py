@@ -2,7 +2,7 @@ import urllib.request
 import re
 
 # URL of the web page to fetch
-url = 'https://www.linkedin.com/jobs/search/?currentJobId=3998441031&keywords=Biotechnology&origin=JOBS_HOME_KEYWORD_AUTOCOMPLETE&refresh=true'
+url = 'https://www.linkedin.com/jobs/search/?currentJobId=3980097591&distance=25&geoId=103918656&keywords=Biotechnology&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true'
 
 
 try:
