@@ -19,11 +19,9 @@ try:
     CLEANR = re.compile('<.*?>')
     clean_html_content = re.sub(CLEANR, '', html_content) 
     more_clean = clean_html_content.split()
-    #for word in more_clean:
-        #print(word)
-
     f = open("test.txt", "w")
-    f.write(more_clean)
+    for word in more_clean:
+        f.write(f"{word}")
     f.close()
 
     # Print the HTML content of the web page
