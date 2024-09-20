@@ -29,24 +29,30 @@ try:
    #Looks through the HTML decoded from the webpage for desired things only times posted right now but want to get link of job amd time
     soup = BeautifulSoup(html_content, 'html.parser')
     time_posted_list = soup.find_all("time")
-    t = open("times.txt", "w")
-    for time in time_posted_list:
-        time = str(time)
-        time.split()
-        t.write(time)
-    t.close()
+    # t = open("times.txt", "w")
+    # for time in time_posted_list:
+    #     time = str(time)
+    #     time.split()
+    #     t.write(time)
+    # t.close()
+    
+    job_details_list = soup.find_all("span") #this will give basic info on the jobs - location and title - location can be used to filter out results
+    job_links_list = soup.find_all("a", class_="hidden-nested-link")
+    for link in job_links_list:
+        print(link['href'])  #This will print link of site of the job, not the job posting need to find the class of the job link
+    
 
 
    #cleans up the output in another text file
-    with open( 
-        "times.txt", 'r') as r, open( 
-            'times_clean.txt', 'w') as o: 
+    # with open( 
+    #     "times.txt", 'r') as r, open( 
+    #         'times_clean.txt', 'w') as o: 
         
-        for line in r: 
-            if line.strip(): 
-                o.write(line) 
+    #     for line in r: 
+    #         if line.strip(): 
+    #             o.write(line) 
 
-    f = open("times_clean.txt", "r") 
+    # f = open("times_clean.txt", "r") 
 
      
 except Exception as e:
