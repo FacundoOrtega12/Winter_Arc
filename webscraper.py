@@ -42,6 +42,11 @@ try:
         print(link['href'])  #This will print link of site of the job, not the job posting need to find the class of the job link
     
 
+    job_links_list = soup.find_all("a", class_="base-card__full-linkabsolutetop-0right-0bottom-0left-0p-0z-[2]") #this is what I think the class should be
+    print(job_links_list)
+    for link in job_links_list:
+        print(link['href'])
+
 
    #cleans up the output in another text file
     # with open( 
