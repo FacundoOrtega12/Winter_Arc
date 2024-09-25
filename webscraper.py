@@ -22,7 +22,7 @@ def main():
 
     get_times(soup)
     get_details(soup)
-    #get_links(soup)
+    get_links(soup)
 
 def get_times(soup):
         time_posted_list = soup.find_all("time")
@@ -78,9 +78,9 @@ def get_links(soup):
         
         l = open("links.txt", "w")
         for link in job_links_list:
-            link = str(link)
+            link = str(link['href'])
             link.split()
-        l.write(link)
+            l.write(link)
         l.close()
 
         #cleans up the output in another text file
@@ -94,7 +94,7 @@ def get_links(soup):
 
         f = open("times_clean.txt", "r")
         f.close()
-        print("IN LINKS")
+        print("IN LINKSsss")
 
 if __name__ == "__main__":
      main()
