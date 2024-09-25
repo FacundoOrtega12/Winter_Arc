@@ -9,3 +9,5 @@ return a clean dic of desired jobs to apply for
 other plans - get working with other jobs sites so you can post multiple site links in a at time and filter all (linkdin, indeed, glassdoor, etc)
 maybe make some sore of user interface to add experience
 
+09/24 --- create the other file by looking for the specific classes like the links file (how it has link['href'])
+        this will allow creation of the dictionary more 

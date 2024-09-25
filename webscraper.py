@@ -79,7 +79,7 @@ def get_links(soup):
         l = open("links.txt", "w")
         for link in job_links_list:
             link = str(link['href'])
-            link.split()
+            l.write('\n')
             l.write(link)
         l.close()
 
@@ -94,7 +94,7 @@ def get_links(soup):
 
         f = open("times_clean.txt", "r")
         f.close()
-        print("IN LINKSsss")
+        print("IN LINKS")
 
 if __name__ == "__main__":
      main()
