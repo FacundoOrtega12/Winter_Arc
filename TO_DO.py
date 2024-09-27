@@ -11,3 +11,6 @@ maybe make some sore of user interface to add experience
 
 09/24 --- create the other file by looking for the specific classes like the links file (how it has link['href'])
         this will allow creation of the dictionary more 
+
+09/26 --- tried to make the file neater to no avail on the details/times with Bsoup, might need to make cleaner elsewhere. Will make it so just 
+        see location. Once cleaned up we can through it into dic for second filter

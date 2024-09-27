@@ -1,167 +1,33 @@
-<span class="sr-only">LinkedIn</span><span class="sr-only">Expand search</span><span class="switcher-tabs__placeholder-text m-auto"></span><span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span><span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span><span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span><span class="typeahead-input__dropdown-text font-sans text-sm font-bold text-color-text"></span><span class="break-words t-bold">Oligonucleotides</span><span class="results-context-header__job-count">17</span><span class="results-context-header__query-search">Oligonucleotides Jobs in San Diego</span><span class="sr-only">
-              
-        
-        Manufacturing Associate I
-      
-      
+<span class="job-search-card__location">
+            San Diego, CA
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="sr-only">
-              
-        
-        Senior Scientist I
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Actively Hiring
-<!-- --> </span><span class="sr-only">
-              
-        
-        Vice President, Clinical Development, Cardiovascular
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        CRISPR Field Application Scientist - Southwest (Southwest Remote with 50% Travel Required)
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Actively Hiring
-<!-- --> </span><span class="sr-only">
-              
-        
-        Research Associate I
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Actively Hiring
-<!-- --> </span><span class="sr-only">
-              
-        
-        Research Associate - LCMS
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        Scientist/Associate Scientist, Chemistry
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="sr-only">
-              
-        
-        Vice President, Clinical Development – Neuromuscular
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        Manager/Senior Manager, Portfolio Strategy &amp; Program Management
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        Associate Director, AOC Process Development and Manufacturing
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="sr-only">
-              
-        
-        Associate Director, AOC (Oligo-linker) Process Development and Manufacturing
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        Senior Principal Scientist, Immunotoxicology
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Actively Hiring
-<!-- --> </span><span class="sr-only">
-              
-        
-        Senior Manager - Strategy
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Actively Hiring
-<!-- --> </span><span class="sr-only">
-              
-        
-        Senior Principal Scientist, Immunotoxicology
-      
-      
-          </span><span class="job-search-card__location">
-            La Jolla, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        Associate Director, CMC Regulatory Affairs
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        Global Training Manager, Commercial Excellence - ONSITE
-      
-      
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">
-              
-        
-        AMD Technical Specialist 1 #: 23-03199
-      
-      
-          </span><span class="job-search-card__location">
-            San Diego, CA
-          </span><span class="job-posting-benefits__text">
-          Be an early applicant
-<!-- --> </span><span class="sr-only">LinkedIn</span><span class="li-footer__copy-text flex items-center">© 2024</span><span class="language-selector__label-text mr-0.5 break-words">
-            Language
           </span>

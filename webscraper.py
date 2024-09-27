@@ -23,10 +23,10 @@ def main():
     get_times(soup)
     get_details(soup)
     get_links(soup)
+    get_tags(soup)
 
 def get_times(soup):
         time_posted_list = soup.find_all("time")
-        
         # Creating times file to further clean it up
         t = open("times.txt", "w")
         for time in time_posted_list:
@@ -50,7 +50,7 @@ def get_times(soup):
         
 def get_details(soup):   
         #this will give basic info on the jobs - location and title - location can be used to filter out results
-        job_details_list = soup.find_all("span")
+        job_details_list = soup.find_all("span", "job-search-card__location")
         
         d = open("details.txt", "w")
         for job in job_details_list:
@@ -95,6 +95,16 @@ def get_links(soup):
         f = open("times_clean.txt", "r")
         f.close()
         print("IN LINKS")
+
+def get_tags(soup):
+    tags_list = soup.find_all(True)
+    # Creating times file to further clean it up
+    t = open("tags.txt", "w")
+    for tag in tags_list:
+        tag = str(tag)
+        tag.split()
+        t.write(tag)
+    t.close()
 
 if __name__ == "__main__":
      main()
