@@ -14,3 +14,5 @@ maybe make some sore of user interface to add experience
 
 09/26 --- tried to make the file neater to no avail on the details/times with Bsoup, might need to make cleaner elsewhere. Will make it so just 
         see location. Once cleaned up we can through it into dic for second filter=
+                
+10/01 --- Can change page number. "&start=25" is page 2 make a for loop iterate through until "No matching jobs found" then end loop and store job urls

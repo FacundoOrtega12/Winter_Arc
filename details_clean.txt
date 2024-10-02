@@ -28,6 +28,4 @@
             San Diego, CA
           </span><span class="job-search-card__location">
             San Diego, CA
-          </span><span class="job-search-card__location">
-            San Diego, CA
           </span>

@@ -97,7 +97,7 @@ def get_links(soup):
         print("IN LINKS")
 
 def get_tags(soup):
-    tags_list = soup.find_all(True)
+    tags_list = soup.find_all("div", "jobs-search-results-list")
     # Creating times file to further clean it up
     t = open("tags.txt", "w")
     for tag in tags_list:
